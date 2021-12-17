@@ -34,6 +34,7 @@
   <img align="center" alt="Igor-Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   <img align="center" alt="Igor-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Igor-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg"> 
+  <img align="center" alt="Igor-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg"> 
 </div>
   
 <hr>
@@ -62,9 +63,10 @@
   
 <h4>Aprendendo no momento</h4>
   <h5>Frameworks/Bibliotecas</h5>
-  <h6>React.js, React Native e Node.js</h6>
+  <h6>React.js, React Native, Node.js e Docker</h6>
     <img align="center" alt="Igor-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="Igor-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+    <img align="center" alt="Igor-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg"> 
 <hr>
   
 <h4>Está na lista dos próximos que vou aprender</h4>
