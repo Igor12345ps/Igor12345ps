@@ -71,7 +71,7 @@
     <img align="center" alt="Igor-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg"> 
 <hr>
   
-<h4>Está na lista dos próximos que vou aprender</h4>
+<h4>Próximos que quero aprender</h4>
   <h5>Back-end</h5>
   <h6></h6>
     <img align="center" alt="Igor-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
