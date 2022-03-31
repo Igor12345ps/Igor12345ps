@@ -4,8 +4,8 @@
 <hr>  
 
 - Hoje sou estudante do ensino técnico de Desenvolvimentos de Sistemas ETEC <br>
-- Estou atualmente estudando React (Native e .js) e NODE.js <br>
-- Pretendo estudar e/ou me aprofundar em PHP, Laravel, Angular, Typescript, e Sass <br>
+- Estou atualmente estudando NODE.js e Next.js <br>
+- Pretendo estudar e/ou me aprofundar em PHP, Laravel, Angular e Sass <br>
 
 <hr>
 
