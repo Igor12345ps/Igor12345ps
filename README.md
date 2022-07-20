@@ -97,7 +97,6 @@ Meus projetos na nuvem agora:
   <h5>Frameworks/Bibliotecas</h5>
   <h6>Angular, Sass e Laravel</h6>
     <img align="center" alt="Igor-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg">
-    <img align="center" alt="Igor-Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
     <img align="center" alt="Igor-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg"> 
    
 ##
