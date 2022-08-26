@@ -1,0 +1,2 @@
+- name: delete-run-artifacts
+  uses: christian-korneck/delete-run-artifacts-action@v1
