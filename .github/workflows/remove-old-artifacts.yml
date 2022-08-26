@@ -1,14 +1,20 @@
-name: CI
-
+name: Cleanup
 on:
   workflow_dispatch
 
 jobs:
-  build:
-    runs-on: ubuntu-latest
 
+  # Demonstrate how to delete by name
+  delete-by-name:
+    runs-on: ubuntu-latest
+    continue-on-error: true
     steps:
-    - uses: geekyeggo/delete-artifact@v1
-      with:
-        name: |
-          java-app
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Delete Artifact by Name
+        uses: jimschubert/delete-artifacts-action@v1
+        with:
+          log_level: 'debug'
+          artifact_name: '${{ github.event.client_payload.base_name }}'
+          min_bytes: '0'
