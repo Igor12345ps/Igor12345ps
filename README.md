@@ -24,8 +24,14 @@ Meus projetos na nuvem: (Temporariamente indisponível)
 
 <hr>
 -->
+
+<div style="display: flex; align-items: center;" align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Igor12345ps&show_icons=true&theme=transparent&hide=contribs"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igor12345ps&layout=compact&theme=transparent">
+</div>
+<hr>
   
-  
+
 <div style="display: inline_block">
   <img align="center" alt="Igor-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Igor-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
